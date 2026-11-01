@@ -23,5 +23,19 @@ The contact form prepares an email using the visitor's default email application
 Images are organised by category under `assets/images/`. Original supplied project artwork has been retained.
 
 
+## Portfolio PDF
+A nine-page landscape PDF presentation of the portfolio is included at `Nkenglefac_Nquizi_Portfolio.pdf`. It presents the profile, selected work categories, featured projects, services and contact details.
+
 ## Downloadable CV
-The PDF CV is stored at `assets/cv/Nkenglefac_Nquizi_Junior_CV.pdf`. Download links are available in the homepage hero and About page. The original PDF content and layout have been kept unchanged.
+The CV PDF is stored at `assets/cv/Nkenglefac_Nquizi_Junior_CV.pdf`. Download links are available in the homepage hero and About page. The original PDF content and layout have been kept unchanged.
+
+
+## Featured project added
+- **Kona-U — Property Sales & Rentals:** brand identity, logo concepts and variations, colour system, typography, graphic language, stationery, social media, website and mobile app concept.
+- Website case study: `work/konau.html`.
+- Project visuals: `assets/images/konau/`.
+- The portfolio PDF now includes a three-page Kona-U project section.
+
+
+### Favicon
+The site uses the Quizgab logo mark as its browser favicon (`favicon-quizgab.ico` and `favicon-quizgab.png`). The icon links are included on all HTML pages and work when the portfolio folder is hosted as the site root.

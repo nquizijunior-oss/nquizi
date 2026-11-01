@@ -81,7 +81,7 @@
       const body = encodeURIComponent(`Hello Nkenglefac,\n\nMy name is ${name}.\nEmail: ${email}\nProject: ${project}\n\n${message}\n\nThank you.`);
       const note = document.querySelector('#form-note');
       if (note) note.textContent = 'Your email application should open with the enquiry details. Please review and send the message.';
-      window.location.href = `mailto:nquizijunior@gmail.com?subject=${subject}&body=${body}`;
+      window.location.href = `mailto:nkenglefacnquizijunior@gmail.com?subject=${subject}&body=${body}`;
     });
   }
 })();
